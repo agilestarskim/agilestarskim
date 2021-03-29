@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=WELCOME&fontSize=90)
 > **개인블로그**   
 > <https://agilestarskim.github.io>
 
