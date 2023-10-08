@@ -1,7 +1,7 @@
 # Hi, There 👋🏻
 
 - 🌱 iOS Developer
-- 🐻 yagom academy 9th camper
+- 🐻 Yagom academy 9th camper
 - 📱 Preparing for release [Square.app](https://github.com/agilestarskim/Square)
 - 📱 launched [LiarGame.app](https://github.com/agilestarskim/LiarGame)
 
