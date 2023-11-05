@@ -2,6 +2,7 @@
 
 - 🌱 iOS Developer
 - 🐻 Yagom academy 9th camper
+- 🏢 Working on ITGen
 - 📱 Preparing for release [Teddy's Planner.app](https://github.com/agilestarskim/Teddys-Planner)
 - 📱 launched [LiarGame.app](https://github.com/agilestarskim/LiarGame)
 
